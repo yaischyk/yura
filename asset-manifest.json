@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yura/static/css/main.3971527b.css",
+    "main.js": "/yura/static/js/main.13f59ce4.js",
+    "index.html": "/yura/index.html",
+    "main.3971527b.css.map": "/yura/static/css/main.3971527b.css.map",
+    "main.13f59ce4.js.map": "/yura/static/js/main.13f59ce4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3971527b.css",
+    "static/js/main.13f59ce4.js"
+  ]
+}
